@@ -1,0 +1,24 @@
+    {
+        "Book_Name":" Power of Habit",
+        "Author":"Charles Duhigg", 
+        "release_date":"2:28:2012",
+        "contents":
+        {
+            "ChapterOne:The Habits of Individuals":{
+                                                "The Habits loop":["Hello"],
+                                                "The Craving Brain":["Hello"],
+                                                "The Golden Rule of Habit Change":["Hello"]
+                                                },
+            "ChapterTwo:The Habits of Successful Organization":{
+                                                            "KeyStone Habits, or the Baliad of Paul O'Neill":["Hello"],
+                                                            "StarBucks and the habits of success":["Hello"],
+                                                            "The power of a crisis":["Hello"],
+                                                            "How to target knows what you want before you do":["Hello"]
+                                                            },
+            "ChapterThree:The Habits of Societies":{
+                                                "Saddleback church and the montgomery bus boycot":["Hello"],
+                                                "The neurology of free will":["Hello"]
+                                                    }
+        }
+    }
+
